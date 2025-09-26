@@ -47,5 +47,15 @@ If people fill out the github issues with a car that crashes, i'll make a google
 
 # Credits and Name
 
+Alot of people have helped me make this plugin a reality so i would like to give them credit where credit is due
+
+spiritvod over on the gildor forums 
+
+ArcadeGamer1929 for helping out on accessing the box cars from that console 
+
+Soul, Emii pointed me in the right direction roughly when it came to coding
+
+Baron Von helped me out when it came to getting the Muffin car a few years ago now
+
 WolfLoader name comes from the character called Silver Wolf in Honkai Star Rail thats where i got the idea of the name for, i was considering like CustomCarLoader or ConsoleCars but i thought WolfLoader sounded cooler 
 
