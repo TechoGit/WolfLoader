@@ -30,6 +30,11 @@ beforehand)
 Once the script says it has completed install you may close the command prompt window and launch Rocket League then press F2 for BakkesMod and head to the plugins tab you should see WolfLoader at the bottom
 of the plugin list, head into Freeplay then go to WolfLoader select one of the cars in the list and you should see your current car mesh replaced with the custom car one Enjoy :)
 
+
+Also don't upload these cars to Alphaconsole's own website Alphaconsole's custom car feature is locked behind patreon wall so by default they it would look like Alphaconsole is charging to use Psyonix Assests when they're free 
+
+So i don't want anything bad to happen to Alphaconsole so please don't do that 
+
 # Known Issues
 
 They're a few known issues with the plugin that i'm aware of that i'll attempt to fix when i have the time this is a list of said things
