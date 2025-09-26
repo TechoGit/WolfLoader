@@ -29,3 +29,22 @@ beforehand)
 
 Once the script says it has completed install you may close the command prompt window and launch Rocket League then press F2 for BakkesMod and head to the plugins tab you should see WolfLoader at the bottom
 of the plugin list, head into Freeplay then go to WolfLoader select one of the cars in the list and you should see your current car mesh replaced with the custom car one Enjoy :)
+
+# Known Issues
+
+They're a few known issues with the plugin that i'm aware of that i'll attempt to fix when i have the time this is a list of said things
+
+There is a small chance (1%) your game may crash if you alt tab via freeplay when the BakkesMod window is open 
+
+Hogstick Truck spikes don't stick to the Truck and float i believe this is cause there is something wrong with the material / spikes aren't stuck to the truck properly 
+I've had to recreate the spikes as i couldn't get the original ones to attach to the truck no matter what i did
+
+Some Cars will crash your game if used for example if you try using F-150 and replace the mesh with one of the custom cars your game will crash 
+I don't have a list of said cars that will crash the game with the meshes as they're too many cars to go through without some method of automating testing
+
+If people fill out the github issues with a car that crashes, i'll make a google document with the list of cars that crash and work but that will take some time
+
+# Credits and Name
+
+WolfLoader name comes from the character called Silver Wolf in Honkai Star Rail thats where i got the idea of the name for, i was considering like CustomCarLoader or ConsoleCars but i thought WolfLoader sounded cooler 
+
