@@ -31,7 +31,7 @@ Once the script says it has completed install you may close the command prompt w
 of the plugin list, head into Freeplay then go to WolfLoader select one of the cars in the list and you should see your current car mesh replaced with the custom car one Enjoy :)
 
 
-Also don't upload these cars to Alphaconsole's own website Alphaconsole's custom car feature is locked behind patreon wall so by default they it would look like Alphaconsole is charging to use Psyonix Assests when they're free 
+Also don't upload these cars to Alphaconsole's own website Alphaconsole's custom car feature is locked behind patreon wall by default. so it would look like Alphaconsole is charging to use Psyonix Assests when they're free 
 
 So i don't want anything bad to happen to Alphaconsole so please don't do that 
 
