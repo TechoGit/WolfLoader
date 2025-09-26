@@ -39,7 +39,7 @@ There is a small chance (1%) your game may crash if you alt tab via freeplay whe
 Hogstick Truck spikes don't stick to the Truck and float i believe this is cause there is something wrong with the material / spikes aren't stuck to the truck properly 
 I've had to recreate the spikes as i couldn't get the original ones to attach to the truck no matter what i did
 
-Some Cars will crash your game if used for example if you try using F-150 and replace the mesh with one of the custom cars your game will crash 
+Some Cars will crash your game if you use a F-150 for example your game will crash when trying to replace the mesh with a custom one i believe this is cause they're different materials rather than a single one
 I don't have a list of said cars that will crash the game with the meshes as they're too many cars to go through without some method of automating testing
 
 If people fill out the github issues with a car that crashes, i'll make a google document with the list of cars that crash and work but that will take some time
