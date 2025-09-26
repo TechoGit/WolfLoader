@@ -19,7 +19,7 @@ Gears Car
 (Station)
 Tooth Truck
 
-How to Download WolfLoader and Install
+# How to Download WolfLoader and Install
 
 If you would like to download WolfLoader for your BakkesMod installion head to the releases tab on Github (Right hand side of your screen) once there you should see a rar file, download it inside you'll
 find the following content: the plugin itself (.dll) file and the car files inside customcars folder
