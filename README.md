@@ -67,7 +67,5 @@ ArcadeGamer1929 for helping out on accessing the box cars from that console
 
 Soul, Emii pointed me in the right direction roughly when it came to coding
 
-Baron Von helped me out when it came to getting the Muffin car a few years ago now
-
 WolfLoader name comes from the character called Silver Wolf in Honkai Star Rail thats where i got the idea of the name for, i was considering like CustomCarLoader or ConsoleCars but i thought WolfLoader sounded cooler 
 
