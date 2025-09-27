@@ -41,8 +41,8 @@ Make sure you have goal reset off in BakkesMod / Freeplay if you score a goal th
 2. You need to follow the steps below for a manual install
 
 3. I'll publish the code for the installer when i've cleaned it up a bit in this repo, if you want can take a look at the virustotal report
-https://www.virustotal.com/gui/file/2986829cd1d4435e03e0e27b880e454eb4a5f399678060e9a31f2aa83f4a10ac?nocache=1
-5/72 right now its at and they're just false postives its cause its accessing the reg to find the steam location probably you can see what stuff its calling 
+https://www.virustotal.com/gui/file/0e983ff4a3279b060007779ebf3984b6073e66241e0f727f52b57ab373460df0?nocache=1
+5/72 right now its at and they're just false postives its cause its accessing the reg to find the steam/epic location probably you can see what stuff its calling 
 
 if that doesn't put your mind at ease then sorry you won't be able to install WolfLoader
 
@@ -52,14 +52,25 @@ You'll need to do a manual install
 
 You need to locate your bakkesmod folder which you can do easily by doing
 
-Image
+![Cars4](https://github.com/TechoGit/WolfLoader/blob/main/bakkesfolder.png?raw=true) 
 
 Then you should see a folder called "Plugins" open that then drag or copy and paste the WolfLoader.dll file inside there 
 
-Then you need to locate your Rocket League folder Its different on epic and steam but the default location for both 
+Then you need to locate your Rocket League folder Its different on epic and steam but the default location for both is
 
-should be
+C:\Program Files (x86)\Steam\steamapps\common\rocketleague  for Steam
+C:\Program Files\Epic Games\rocketleague for Epic
 
+Once you've located your Rocket League folder go inside it and head to TAGame then CookedPCConsole
+you should see a mod folder if you've used some bakkesmod plugins previously inside that but if you don't
+create a mods folder inside the CookedPCConsole folder like how i've shown below
+
+![Cars5](https://github.com/TechoGit/WolfLoader/blob/main/insidemodsfolder.png?raw=true)
+
+Once you've found the mods folder or created it you want to open it up then copy and paste or drag CustomCar folder from The WolfLoader folder inside your Downloads Folder
+then put it inside and that should be you done inside the CustomCar folder it should look like this
+
+![Cars6](https://github.com/TechoGit/WolfLoader/blob/main/insidecarsfolder.png?raw=true)
 
 Also don't upload these cars to Alphaconsole's own website Alphaconsole's custom car feature is locked behind patreon wall by default. so it would look like Alphaconsole is charging to use Psyonix Assests when they're free 
 
@@ -83,7 +94,7 @@ Some Cars will crash your game if you use a F-150 for example your game will cra
 
 I don't have a list of said cars that will crash the game with the meshes as they're too many cars to go through without some method of automating testing
 
-If people fill out the github issues with a car that crashes, i'll make a google document with the list of cars that crash and work but that will take some time
+If people fill out the github issues with a car that crashes, i'll make a google document with the list of cars that crash and work out which ones do but that will take some time
 
 # Credits and Name
 
