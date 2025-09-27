@@ -32,6 +32,8 @@ beforehand)
 Once the exe says it has completed install you may close the command prompt window and launch Rocket League then press F2 for BakkesMod and head to the plugins tab you should see WolfLoader at the bottom
 of the plugin list, head into Freeplay then go to WolfLoader select one of the cars in the list and you should see your current car mesh replaced with the custom car one Enjoy :)
 
+Make sure you have goal reset off in BakkesMod / Freeplay if you score a goal the custom car will refresh and you'll need to reapply it also i advise against applying multiple meshes in one session it will most likely result in crashing as i've mentioned in the Known Issues section
+
 # 1. I can't launch the installer exe cause windows defender think its a virus / 2. you don't have permissions to launch exe files from the internet / 3. i don't trust you 
 
 1. You need to turn off your anti virus and allow it as program follow the steps below if you can't do that
