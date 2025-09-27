@@ -25,6 +25,8 @@ Tooth Truck
 
 # How to Download WolfLoader and Install
 
+Before installing WolfLoader you be aware there is risk of your game crashing while in freeplay if you switch between too many cars rapidly and every Rocket League update you'll have to come back here and download the lastest update otherwise the plugin won't work (prob)
+
 If you would like to download WolfLoader for your BakkesMod install head to the releases tab on Github (Right hand side of your screen) once there you should see a rar file, download it inside you'll
 find the following content: the plugin itself (.dll) file and the car files inside customcars folder
 
