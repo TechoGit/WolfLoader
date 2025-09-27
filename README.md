@@ -19,7 +19,7 @@ Gears Car
 (Station)
 Tooth Truck
 
-(cars.png)
+!(cars.png)
 
 # How to Download WolfLoader and Install
 
