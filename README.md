@@ -4,6 +4,10 @@ WolfLoader is a custom BakkesMod plugin designed to be used in Rocket League thi
 
 WolfLoader is only allowed in Freeplay and Workshop maps in order to comply with Psyonix/BakkesMod TOS like how AlphaConsole is doing their custom cars 
 
+Also don't upload these cars to Alphaconsole's own website Alphaconsole's custom car feature is locked behind patreon wall by default. so it would look like Alphaconsole is charging to use Psyonix Assests when they're free
+
+So i don't want anything bad to happen to Alphaconsole so please don't do that
+
 The Plugin will come preinstalled with cars from the following platforms (Switch, Box, Station)
 
 (Switch)
@@ -81,10 +85,6 @@ then put it inside and that should be you done inside the CustomCar folder it sh
 After that you close all the windows and launch Rocket League, once Rocket Leauge has been launched press F2 on your keyboard and head to plugins tab then Plugin Manager option
 
 You'll need to scroll down until you see WolfLoader.dll and tick the box to make sure its active if it hasn't been already after you've done that you're all good to go
-
-Also don't upload these cars to Alphaconsole's own website Alphaconsole's custom car feature is locked behind patreon wall by default. so it would look like Alphaconsole is charging to use Psyonix Assests when they're free 
-
-So i don't want anything bad to happen to Alphaconsole so please don't do that 
 
 # Known Issues
 There is a small chance (1%) your game may crash if you alt tab via freeplay when the BakkesMod window is open 
