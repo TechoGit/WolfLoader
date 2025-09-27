@@ -34,14 +34,14 @@ of the plugin list, head into Freeplay then go to WolfLoader select one of the c
 
 Make sure you have goal reset off in BakkesMod / Freeplay if you score a goal the custom car will refresh and you'll need to reapply it also i advise against applying multiple meshes in one session it will most likely result in crashing as i've mentioned in the Known Issues section
 
-/
-/
-/
-/
-/
-/
-/
-/
+//
+//
+//
+//
+//
+//
+//
+//
 
 # 1. I can't launch the installer exe cause windows defender think its a virus / 2. you don't have permissions to launch exe files from the internet / 3. i don't trust you 
 
