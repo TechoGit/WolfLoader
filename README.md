@@ -36,13 +36,12 @@ Also don't upload these cars to Alphaconsole's own website Alphaconsole's custom
 So i don't want anything bad to happen to Alphaconsole so please don't do that 
 
 # Known Issues
-
-They're a few known issues with the plugin that i'm aware of that i'll attempt to fix when i have the time this is a list of said things
-
 There is a small chance (1%) your game may crash if you alt tab via freeplay when the BakkesMod window is open 
 
 Hogstick Truck spikes don't stick to the Truck and float i believe this is cause there is something wrong with the material / spikes aren't stuck to the truck properly 
 I've had to recreate the spikes as i couldn't get the original ones to attach to the truck no matter what i did
+
+If you load the Tooth Truck first then switch to multiple different other custom cars then you go back to the Tooth Truck, the game will crash
 
 Some Cars will crash your game if you use a F-150 for example your game will crash when trying to replace the mesh with a custom one i believe this is cause they're different materials rather than a single one
 
