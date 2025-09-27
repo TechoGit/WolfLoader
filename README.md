@@ -19,6 +19,8 @@ Gears Car
 (Station)
 Tooth Truck
 
+(cars.png)
+
 # How to Download WolfLoader and Install
 
 If you would like to download WolfLoader for your BakkesMod installion head to the releases tab on Github (Right hand side of your screen) once there you should see a rar file, download it inside you'll
