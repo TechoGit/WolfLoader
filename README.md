@@ -26,11 +26,37 @@ Tooth Truck
 If you would like to download WolfLoader for your BakkesMod installion head to the releases tab on Github (Right hand side of your screen) once there you should see a rar file, download it inside you'll
 find the following content: the plugin itself (.dll) file and the car files inside customcars folder
 
-Open up the .bat file this will automatically attempt to install the plugin to the bakkesmod folder and copy the customcars to rocket league folder in order to work (Make sure your rocket league is closed
+Open up the .exe file this will automatically attempt to install the plugin to the bakkesmod folder and copy the customcars to rocket league folder in order to work (Make sure your rocket league is closed
 beforehand)
 
-Once the script says it has completed install you may close the command prompt window and launch Rocket League then press F2 for BakkesMod and head to the plugins tab you should see WolfLoader at the bottom
+Once the exe says it has completed install you may close the command prompt window and launch Rocket League then press F2 for BakkesMod and head to the plugins tab you should see WolfLoader at the bottom
 of the plugin list, head into Freeplay then go to WolfLoader select one of the cars in the list and you should see your current car mesh replaced with the custom car one Enjoy :)
+
+# 1. I can't launch the installer exe cause windows defender think its a virus / 2. you don't have permissions to launch exe files from the internet / 3. i don't trust you 
+
+1. You need to turn off your anti virus and allow it as program follow the steps below if you can't do that
+
+2. You need to follow the steps below for a manual install
+
+3. I'll publish the code for the installer when i've cleaned it up a bit in this repo, if you want can take a look at the virustotal report
+https://www.virustotal.com/gui/file/2986829cd1d4435e03e0e27b880e454eb4a5f399678060e9a31f2aa83f4a10ac?nocache=1
+5/72 right now its at and they're just false postives its cause its accessing the reg to find the steam location probably you can see what stuff its calling 
+
+if that doesn't put your mind at ease then sorry you won't be able to install WolfLoader
+
+If for some reason you can't launch the exe file due to your windows permissions or it gets detected as a virus cause it access the registery to find the location of the steam dir
+
+You'll need to do a manual install
+
+You need to locate your bakkesmod folder which you can do easily by doing
+
+Image
+
+Then you should see a folder called "Plugins" open that then drag or copy and paste the WolfLoader.dll file inside there 
+
+Then you need to locate your Rocket League folder Its different on epic and steam but the default location for both 
+
+should be
 
 
 Also don't upload these cars to Alphaconsole's own website Alphaconsole's custom car feature is locked behind patreon wall by default. so it would look like Alphaconsole is charging to use Psyonix Assests when they're free 
