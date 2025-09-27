@@ -23,7 +23,7 @@ Tooth Truck
 
 # How to Download WolfLoader and Install
 
-If you would like to download WolfLoader for your BakkesMod installion head to the releases tab on Github (Right hand side of your screen) once there you should see a rar file, download it inside you'll
+If you would like to download WolfLoader for your BakkesMod install head to the releases tab on Github (Right hand side of your screen) once there you should see a rar file, download it inside you'll
 find the following content: the plugin itself (.dll) file and the car files inside customcars folder
 
 Open up the .exe file this will automatically attempt to install the plugin to the bakkesmod folder and copy the customcars to rocket league folder in order to work (Make sure your rocket league is closed
@@ -33,6 +33,15 @@ Once the exe says it has completed install you may close the command prompt wind
 of the plugin list, head into Freeplay then go to WolfLoader select one of the cars in the list and you should see your current car mesh replaced with the custom car one Enjoy :)
 
 Make sure you have goal reset off in BakkesMod / Freeplay if you score a goal the custom car will refresh and you'll need to reapply it also i advise against applying multiple meshes in one session it will most likely result in crashing as i've mentioned in the Known Issues section
+
+
+
+
+
+
+
+
+
 
 # 1. I can't launch the installer exe cause windows defender think its a virus / 2. you don't have permissions to launch exe files from the internet / 3. i don't trust you 
 
