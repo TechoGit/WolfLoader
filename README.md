@@ -76,6 +76,10 @@ then put it inside and that should be you done inside the CustomCar folder it sh
 
 ![Cars6](https://github.com/TechoGit/WolfLoader/blob/main/insidecarsfolder.png?raw=true)
 
+After that you close all the windows and launch Rocket League, once Rocket Leauge has been launched press F2 on your keyboard and head to plugins tab then Plugin Manager option
+
+You'll need to scroll down until you see WolfLoader.dll and tick the box to make sure its active if it hasn't been already after you've done that you're all good to go
+
 Also don't upload these cars to Alphaconsole's own website Alphaconsole's custom car feature is locked behind patreon wall by default. so it would look like Alphaconsole is charging to use Psyonix Assests when they're free 
 
 So i don't want anything bad to happen to Alphaconsole so please don't do that 
