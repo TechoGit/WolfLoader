@@ -45,6 +45,10 @@ I've had to recreate the spikes as i couldn't get the original ones to attach to
 
 If you load the Tooth Truck first then switch to multiple different other custom cars then you go back to the Tooth Truck, the game will crash
 
+Calzone has a missing texture on the bottom this will be fixed in a later release isn't priority right now 
+![Cars2](https://github.com/TechoGit/WolfLoader/blob/main/calzonemissing.png?raw=true)
+
+
 Some Cars will crash your game if you use a F-150 for example your game will crash when trying to replace the mesh with a custom one i believe this is cause they're different materials rather than a single one
 
 I don't have a list of said cars that will crash the game with the meshes as they're too many cars to go through without some method of automating testing
